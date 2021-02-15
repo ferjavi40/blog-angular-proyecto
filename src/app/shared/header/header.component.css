@@ -25,3 +25,21 @@
 .cursor{
     cursor: pointer;
 }
+
+
+.active{
+	font-weight: bold;
+    border-bottom: 3px solid #5cb85c;
+    
+}
+
+
+/* efecto hoover */
+/* .zoom {
+    transition: transform .2s;
+}
+
+.zoom:hover {
+    transform: scale(1.2);
+
+} */
