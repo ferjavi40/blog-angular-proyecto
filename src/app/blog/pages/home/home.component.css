@@ -1,0 +1,22 @@
+.body {
+    background-image: url("../../../../assets/images/bg/dna.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    /* Center the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+    padding-top: 50px;
+    height: 80vh;
+}
+
+.jumbotron {
+    color: white;
+    background: rgba(0, 0, 0, 0.2);
+    
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 3px;
+    margin-bottom: 1em;
+    background-position: center;
+    
+    
+}
